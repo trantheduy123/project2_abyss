@@ -1,6 +1,6 @@
 import React from 'react'
 import css from '../hero/Hero.module.css'
-import HeroImg from '../../assets/hero.png'
+import HeroImg from '../../assets/logo2.png'
 import {RiLuggageCartLine} from 'react-icons/ri'
 import {BsArrowRight} from 'react-icons/bs'
 const Hero = () => {

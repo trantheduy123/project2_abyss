@@ -24,7 +24,7 @@
     z-index: -99;
     bottom: 0;
     border-radius: 50%;
-    background: linear-gradient(90deg, rgba(115,132,133,1) 0%, rgba(0,212,255,1) 100%);
+    background: #263435;
 }
 
 .cart2{
@@ -39,7 +39,7 @@
 .cart2>svg{
     width: 30px;
     height: 30px;
-    background: white;
+    background: var(--green);
     padding: 10px;
     border-radius: 50%;
     border: 6px solid var(--black);
@@ -49,7 +49,7 @@
     display: flex;
     gap: 1rem;
     align-items: center;
-    background: white;
+    background: var(--green);
     padding: 10px;
     font-size: 0.8rem;
     border-radius: 15px;
@@ -86,7 +86,7 @@
     display: flex;
     flex-direction: column;
     width: min-content;
-    color: black;
+    color: var(--black);
 }
 .text2>:first-child{
     font-weight: 800;

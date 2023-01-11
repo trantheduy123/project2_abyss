@@ -48,7 +48,7 @@ justify-content: center;
     position: relative;
     width: 12rem;
     height: 8rem;
-    background-color: white;
+    background-color: var(--green);
     overflow: hidden;
     padding: 1rem;
     display: flex;
